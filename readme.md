@@ -1,1 +1,1 @@
-setting up repository for project
+Little Lemon database capstone project
