@@ -80,5 +80,5 @@ DELIMITER ;
 
 -- Call Stored Procedure for new table and date
 CALL AddValidBooking("2022-12-17", 6);
--- Call Stored Procedure for table and date already booked
+-- Call Stored Procedure for table and date already used 
 CALL AddValidBooking('2022-10-10', 5);
